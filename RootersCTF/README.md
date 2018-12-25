@@ -48,6 +48,7 @@ Category :  Crypto
 File : [HERE](http://rootersctf.in/files/057c225412a9e78c87f4299f378fea8e/cipher_text.zip)
 
 Solution : After downloading the password protected zip file and cracking the password with fcrackzip we got the password as fsociety
+
 ![password](https://i.imgur.com/6nIQBdq.png)
 
 Cipher Text:`zpwj{ym_apzv_io_l_oqajhqu_dm_fllmdlqg}`
@@ -74,9 +75,13 @@ File : [HERE](http://rootersctf.in/files/d35eb83dcbf4a7b4b2d879df60746fd5/admin)
 
 Solution:
 When we run the executable it asks for a username and password upon submitting the correct username and password it gives us the flag 
+
 ![enter image description here](https://i.imgur.com/b1osj7s.png)
+
 I tried 250 A's as the username just as a wild guess to see if there is a BOF and BOOM (Lucky Me)
+
 ![enter image description here](https://i.imgur.com/OjzL1gl.png)
+
 The following is not the flag I made that up
 
 Challenge:**Prisoners of the Sun**
