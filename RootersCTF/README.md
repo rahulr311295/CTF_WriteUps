@@ -1,7 +1,9 @@
 # RootersCTF
 
 Challenge : **Old is Gold**
+
 Category :  Crypto
+
 Description : 
  
 
@@ -20,7 +22,9 @@ After Decoding the message we get the string "**INFOXPRESSION**"
 Flag: **RCTF{INFOXPRESSION}**
 
 Challenge : **Francis Secret**
+
 Category :  Crypto
+
 Cipher Text : 
 
     AAAABAAAAAAAABAABBABABBAAAAABAABAAAABBBAAABBBAABAABAAAAABAAABAAABAABBABAAAAAABAAAAAAABAABA
@@ -31,8 +35,11 @@ Searching through Google we found that it is **Baconian Cipher**
 Flag: **RCTF{BACONCIPHERISGREAT}**
 
 Challenge:**Automate or Die!**
+
 Category :  Crypto
+
 Cipher Text : [HERE](http://rootersctf.in/files/26e32edd4675187ecdb8a0780d86bb76/automate_or_die.txt)
+
 Solution:
 This is just base64 encoded multiple times so writing a small python script will do the job
 
