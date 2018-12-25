@@ -199,5 +199,5 @@ Description:
     `Put the flag in RCTF{}``
 Solution : This was nuts  So I had to seek help to a friend of mine who is good in these kinds of stuff after a while he said this is a path finding problem where 2 is the starting position with the character e and the next position as 73 by traversing through the path we can get the flag I still dont know how he did that
 
-Flag : **RCTF{e*#JoyfY6%rU}**
+Flag : `RCTF{e*#JoyfY6%rU}`
 
