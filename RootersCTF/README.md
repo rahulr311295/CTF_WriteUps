@@ -10,7 +10,9 @@ Description :
 Solution:
 This was something that I was familiar with because I've used this type of encryption in my teenage to send messages to my Ex (LOL) 
 This is like the keypad of an old mobile phone like the Nokia 3310 where 444 means I as we press the 4th key 3 times to get the letter I as in this picture
+
 ![enter image description here](https://www.dcode.fr/tools/phone-keypad/images/keypad.png)
+
 After Decoding the message we get the string "**INFOXPRESSION**"
 
 Flag: **RCTF{INFOXPRESSION}**
